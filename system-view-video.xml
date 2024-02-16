@@ -1,0 +1,7 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <subset name="system-view-video" displayName="System View Video">
+      <include name="off" displayName="Off" />
+      <include name="on" displayName="On" />
+   </subset>
+</theme>
