@@ -13,6 +13,7 @@ https://github.com/anthonycaccese/colorful-simplified-es-addons-video-720/assets
 ## How to Use:
 
 ### 1) Start Here
+- Please make sure you have the [Colorful (Simplified)](https://github.com/anthonycaccese/colorful-simplified-es) installed and running.
 - Make sure the `Distribution` setting is set to the correct value for your current OS (e.g. Batocera, JELOS or RetroBat)
 - You can find this setting in `User Interface Settings > Theme Configuration` in EmulationStation's Main Menu
 - This value determines the folder where you will add the files from this addon
