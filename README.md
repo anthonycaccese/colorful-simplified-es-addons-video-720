@@ -22,8 +22,8 @@ https://github.com/anthonycaccese/colorful-simplified-es-addons-video-720/assets
 - Make sure to create the folders from above that match your distribution and then move on to the next step...
 
 ### 2) Download the latest release 
-- Download the latest release from here
-- Extract it into the folder you created from the previous step
+- Download the latest release from [here](https://github.com/anthonycaccese/colorful-simplified-es-addons-video-720/releases/latest)
+- Extract it into the folder you created from the previous step (the `system-view-video.xml` file and the `videos` folder should be the top level things you see after extractng it to your directory)
 
 ### 3) Open the Theme Configuration in EmulationStation
 - In EmulationStation open the Main Menu and navigate to `User Interface Settings > Theme Configuration`
