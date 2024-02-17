@@ -1,4 +1,4 @@
-# Colorful (Simplified) for EmulationStation - System Video Addon (720p)
+# Colorful (Simplified) for EmulationStation: <br>System Video Addon (720p Version)
 
 This is a system video addon for the [Colorful (Simplified)](https://github.com/anthonycaccese/colorful-simplified-es) theme.  The videos were created by [viking](https://forums.launchbox-app.com/profile/70421-viking/) and others from the launchbox community.  All credit to them and huge thanks for their work.  This repository simply organizes a subset of the colorful video set to be easily used with the port of the theme that I made for EmulationStation.
 
